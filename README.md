@@ -17,5 +17,5 @@ Contact with me via these platforms!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rtanyildizi&count_private=true&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtanyildizi&hide=powershell,html,python,jupyter notebook&layout=compact&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtanyildizi&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=dracula">
 </p>
