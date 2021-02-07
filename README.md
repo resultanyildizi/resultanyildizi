@@ -9,8 +9,8 @@
 Contact with me via these platforms! 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nurettin-resul-a3a0141a7/" target="_blank" rel="nofollow"><img alt="Resul's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tanyildizi.resul@gmail.com" target="_blank" rel="nofollow"><img alt="Resul's Mail Address" src="https://img.shields.io/badge/%E2%9C%89-Gmail-%23DB4437" /></a>
+  <a href="https://www.linkedin.com/in/nurettin-resul-a3a0141a7/" target="_blank" rel="nofollow"><img alt="Resul's Linkdein" src="https://img.shields.io/badge/LinkedIn-rtanyildizi-%230072B1?logo=linkedin" /></a>
+  <a href="mailto:tanyildizi.resul@gmail.com" target="_blank" rel="nofollow"><img alt="Resul's Mail Address" src="https://img.shields.io/badge/Gmail-tanyildizi.resul@gmail.com-white?logo=gmail" /></a>
 </p>
 
 <p align="center">
