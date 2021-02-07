@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/rtanyildizi?style=social)](https://github.com/rtanyildizi?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/rtanyildizi?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=gulceselim.visitor-badge)](https://GitHub.com/rtanyildizi/StrapDown.js/stargazers/)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rtanyildizi.visitor-badge)](https://GitHub.com/rtanyildizi/StrapDown.js/stargazers/)
 
 
 ## Hi 👋
@@ -15,5 +15,5 @@ Contact with me via these platforms!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rtanyildizi&count_private=true&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtanyildizi&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtanyildizi&hide=powershell,html,python,jupyter notebook&layout=compact&show_icons=true&theme=dracula">
 </p>
