@@ -2,7 +2,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/rtanyildizi?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rtanyildizi.visitor-badge)](https://GitHub.com/rtanyildizi/StrapDown.js/stargazers/)
 
-<p align=center><img src='https://user-images.githubusercontent.com/47090675/107148879-a8880800-6966-11eb-8493-8971284c27e6.png' width=200 height=200 /></p>
+<p align=center><img src='https://github.com/rtanyildizi.png' style='border-radius:50%' width=200 height=200 /></p>
 
 ## Hi, it's Nurettin Resul Tanyıldızı 🎉
 3rd Year Computer Engineering student who is really enjoying to create beautiful, secure and fast mobile/web applications. 
