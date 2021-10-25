@@ -5,7 +5,7 @@
 <p align=center><img src="https://github.com/rtanyildizi.png" style="border-radius:50%"  width=200 height=200 /></p>
 
 ## Hi, it's Nurettin Resul Tanyıldızı 🎉
-3rd Year Computer Engineering student who is really enjoying to create beautiful, secure and fast mobile/web applications. 
+4th Year Computer Engineering student who is really enjoying to create beautiful, secure and fast applications. 
 
 Contact with me via these platforms! 
 
