@@ -19,12 +19,3 @@ Contact with me via these platforms!
   <img src="https://github-readme-stats.vercel.app/api?username=resultanyildizi&count_private=true&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resultanyildizi&hide=html,python,jupyter notebook&layout=compact&show_icons=true&theme=dracula">
 </p>
-
-
-# New Project
-### This is my new project
-This project is a really awesome project
-| Name | Surname | Github |
-| --- | --- | --- |
-| Nurettin Resul | Tanyıldızı | [@resultanyildizi](https://github.com/resultanyildizi) |
-| Selim | Gülce | [@gulceselim](https://github.com/gulceselim) |
