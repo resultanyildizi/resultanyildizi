@@ -21,8 +21,8 @@ Contact with me via these platforms!
 </p>
 
 
-#New Project
-###This is my new project
+# New Project
+### This is my new project
 This project is a really awesome project
 | Name | Surname | Github |
 | --- | --- | --- |
