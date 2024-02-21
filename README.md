@@ -8,7 +8,6 @@
 Contact with me via these platforms! 
 
 <p align="center">
-  <a href="mailto:tanyildizi.resul@gmail.com" target="_blank" rel="nofollow"><img alt="Resul's Mail Address" src="https://img.shields.io/badge/Gmail-white?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/resultanyildizi/" target="_blank" rel="nofollow"><img alt="Resul's LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230072B1?logo=linkedin" /></a>
   <a href="https://www.youtube.com/channel/UCKz9BumCEpWIRP25Hi9nGnw" target="_blank" rel="nofollow"> <img alt="Resul's Youtube Channel" src="https://img.shields.io/badge/Youtube-white?logo=youtube&logoColor=FF0000"/></a>
 </p>
